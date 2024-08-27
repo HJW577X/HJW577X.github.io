@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-# [About Me](http://localhost:6006/about_me)
+# [About Me](http://HJW577X.github.io/about_me)
 I am a master student at the College of Informatics, Huazhong Agricultural University, and will obtain my master degree in June 2025.
 
 My supervisors are [Prof. Zaiwen Feng](https://coi.hzau.edu.cn/info/1122/6168.htm) from the College of Informatics at Huazhong Agricultural University, [Prof. Michael Bewong](https://bjbs.csu.edu.au/schools/computing-mathematics-engineering/staff/profiles/senior-lecturers/michael-bewong) from the School of Computing, Mathematics & Engineering at Charles Sturt University, and [Prof. Selasi Kwashie](https://researchoutput.csu.edu.au/en/persons/selasi-kwashie) from the AI & Cyber Futures Institute at Charles Sturt University.
 
 I'm working on data mining、representation learning on graph-structured data and applying them to downstream tasks e.g. link prediction and entity resolution. I also work on Large Language Models on Graphs.
 
-# [Researchs](http://localhost:6006/researchs)
+# [Researchs](http://HJW577X.github.io/researchs)
 ## Data Mining
 I have experience in logical rule mining on knowledge graphs through rule formulation and graph-theoretic algorithms, such as graph entity dependency (GED) and graph differential dependency (GDD), which contains a type of logical reasoning knowledge. It is expressed through a combination of graph patterns and dependency relationships based on graph patterns, and can be well applied to inference tasks in real world.
 
@@ -31,7 +31,7 @@ Message passing based methods are a general framework for graph neural networks,
 I am also interested in other graph representation learning techniques such as auto-encoder, adversarial learning, and contrastive learning, etc.
 
 
-# [Publications](http://localhost:6006/publications)
+# [Publications](http://HJW577X.github.io/publications)
 ## My major work (first author):
 
 {% include base_path %}
