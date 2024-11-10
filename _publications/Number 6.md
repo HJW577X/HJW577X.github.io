@@ -2,7 +2,7 @@
 title: "<small>FastAGEDs: Fast Approximate Graph Entity Dependency Discovery</small>"
 collection: publications
 permalink: /publication/Number-6
-excerpt: 'Published, _WISE_, 2023'
+excerpt: 'Accepted, _WISE_, 2023'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # codeurl: 'https://github.com/Zaiwen/GED_Discovery'
