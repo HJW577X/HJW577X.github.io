@@ -71,4 +71,7 @@ It refers to the capability of large language models to learn from a few demonst
     {% if post.title == '<small>FastAGEDs+: Fast Approximate Graph Entity Dependency Discovery</small>' %}
     {% include archive-single.html %}
   {% endif %}
+    {% if post.title == '<small>GIG: Graph Data Imputation With Graph Differential Dependencies</small>' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
