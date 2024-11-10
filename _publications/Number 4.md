@@ -1,8 +1,8 @@
 ---
-title: "<small>Explainable Entity Resolution with Large Language Models</small>"
+title: "<small>An Effective In-Context Learning Strategy for Entity Matching via Large Language Models</small>"
 collection: publications
 permalink: /publication/Number-4
-excerpt: 'Working'
+excerpt: 'Working, 2025'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # codeurl: 'http://academicpages.github.io/files/slides1.pdf'
