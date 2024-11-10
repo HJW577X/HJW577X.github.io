@@ -2,7 +2,7 @@
 title: "<small>Discovering Graph Differential Dependencies</small>"
 collection: publications
 permalink: /publication/Number-7
-excerpt: 'Published, _ADC_, 2023'
+excerpt: 'Accepted, _ADC_, 2023'
 # date: 2009-10-01
 # venue: 'Journal 1'
 codeurl: 'https://github.com/HJW577X/GDD_Discovery'
