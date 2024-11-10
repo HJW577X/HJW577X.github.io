@@ -2,7 +2,7 @@
 title: "<small>An Efficient Approach for Discovering Graph Entity Dependencies (GEDs)</small>"
 collection: publications
 permalink: /publication/Number-5
-excerpt: 'Published, _Information Systems_, 2024'
+excerpt: 'Accepted, _Information Systems_, 2024'
 # date: 2009-10-01
 # venue: 'Journal 1'
 codeurl: 'https://github.com/Zaiwen/GED_Discovery'
