@@ -35,7 +35,7 @@ It refers to the capability of large language models to learn from a few demonst
 
 
 # [Publications](http://HJW577X.github.io/publications)
-## Major work (first author):
+## Major Work (first author):
 
 {% include base_path %}
 
@@ -54,7 +54,7 @@ It refers to the capability of large language models to learn from a few demonst
   {% endif %}
 {% endfor %}
 
-## Involved work:
+## Involved Work:
 
 {% include base_path %}
 
