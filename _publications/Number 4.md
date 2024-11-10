@@ -10,5 +10,5 @@ excerpt: 'Working, 2025'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-**Author:** *Hu, Junwei et al.* 
+**Author:** *Hu, Junwei et al.*  
 **Abstract:** 
