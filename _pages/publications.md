@@ -22,7 +22,7 @@ author_profile: true
   {% if post.title == '<small>A Heterogeneous Network-based Contrastive Learning Approach for Predicting Drug-Target Interaction</small>' %}
     {% include archive-single.html %}
   {% endif %}
-  {% if post.title == '<small>Explainable Entity Resolution with Large Language Models</small>' %}
+  {% if post.title == '<small>An Effective In-Context Learning Strategy for Entity Matching via Large Language Models</small>' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
