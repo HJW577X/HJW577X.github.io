@@ -2,7 +2,7 @@
 title: "<small>Heterogeneous Graph Neural Networks for Link Prediction in Biomedical Networks</small>"
 collection: publications
 permalink: /publication/Number-2
-excerpt: 'Under reivew, _Bioinformatics_, 2024'
+excerpt: 'Revision submitted, _Bioinformatics_, 2024'
 # date: 2009-10-01
 # venue: 'Journal 1'
 codeurl: 'https://github.com/Zaiwen/Link_Prediction_in_Biomedical_Network'
