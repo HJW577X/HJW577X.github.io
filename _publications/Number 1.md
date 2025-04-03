@@ -2,7 +2,7 @@
 title: "<small>When GDD meets GNN: A Knowledge-driven Neural Connection for Effective Entity Resolution in Property Graphs</small>"
 collection: publications
 permalink: /publication/Number-1
-excerpt: 'Under review, _Information Systems_, 2024 '
+excerpt: 'Accepted, _Information Systems_, 2024 '
 # date: 2009-10-01
 # venue: 'Journal 1'
 codeurl: 'https://github.com/Zaiwen/Entity_Resolution_Junwei_HU'
